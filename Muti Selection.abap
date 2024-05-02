@@ -1,16 +1,14 @@
 ************************************************************************
 * Program Name  : ZRSDSA0185
 * Descriptions  : Maintain Packing Standard
-* Create By     : V_BILLY
-* Create Date   : 2022/10/31
-* Tcode         : ZRSDSA0185
+* Create By     : 
+* Create Date   : 
+* Tcode         : 
 ************************************************************************
 * Modification Log
 ************************************************************************
 *   Date     Ver.   Programmer   Descriptions
 * ---------- ----   ------------ --------------------------------------
-* 20221117  DNRK945462  V_Billy  Add new function for ZTSD0019
-* 20230209  DNRK948777  V_Billy  Add new function for ZTSD0187 ( MaxQty & Korea Label)
 ************************************************************************
 
 REPORT zrsdpa0185 NO STANDARD PAGE HEADING
