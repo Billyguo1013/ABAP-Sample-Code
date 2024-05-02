@@ -386,7 +386,7 @@ FUNCTION z_mm_052_shippingnotice_a.
                              ( line = |此為系統自動通知信，請勿直接回信！<BR>| )
                              ( line = |<BR>| )
                              ( line = |祝 順頌商祺<BR>| )
-                             ( line = |福特六和<BR>| )
+                             ( line = |<BR>| )
                            ).
 *-----寄送地址
         CLEAR lt_receivers.
