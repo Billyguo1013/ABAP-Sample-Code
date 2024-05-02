@@ -1,9 +1,9 @@
 ************************************************************************
-* Program Name  : ZRSDSA0178
-* Descriptions  : Upload relevant SO Data for NTCJ
-* Create By     : V_BILLY
-* Create Date   : 2022/08/01
-* Tcode         : ZRSDSA0178
+* Program Name  :
+* Descriptions  : 
+* Create By     : 
+* Create Date   : 
+* Tcode         : 
 ************************************************************************
 * Modification Log
 ************************************************************************
