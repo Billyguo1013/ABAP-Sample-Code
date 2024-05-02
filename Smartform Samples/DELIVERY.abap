@@ -282,9 +282,7 @@ FUNCTION z_sd_delivery_print_a.
                              ( line = |<BR>| )
                              ( line = |交貨單 { l_vbeln } 已經出貨，詳細請參考附件。謝謝！<BR>| )
                              ( line = |<BR>| )
-                             ( line = |敬啓,<BR>| )
-                             ( line = |顧客服務處<BR>| )
-                             ( line = |福特六和汽車<BR>| )
+                             ( line = |敬啓<BR>| )
                            ).
 *-----寄送地址
         CLEAR lt_receivers.
