@@ -1,5 +1,5 @@
 *&---------------------------------------------------------------------*
-*&  Include           ZRCRMS0004_S01
+*&  Include           ZRCRM0001_S01
 *&---------------------------------------------------------------------*
 SELECTION-SCREEN BEGIN OF BLOCK blk1 WITH FRAME TITLE text-s00.
 SELECT-OPTIONS: s_erdat FOR  vbak-erdat OBLIGATORY.
